@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5575af0a.css",
+    "main.js": "/static/js/main.353d6a3f.js",
+    "static/js/787.7d3737a8.chunk.js": "/static/js/787.7d3737a8.chunk.js",
+    "static/media/lefthand.png": "/static/media/lefthand.4df0ca378426fdd9da34.png",
+    "static/media/icons8-apple1.png": "/static/media/icons8-apple1.ededda308311106912e4.png",
+    "static/media/google-play.png": "/static/media/google-play.2156965d30af9e3a297c.png",
+    "static/media/Graph.png": "/static/media/Graph.24d6dae89d1f6e9a8a19.png",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/support_icon.svg": "/static/media/support_icon.5ec42f8dc773590888c020e73def7f41.svg",
+    "static/media/notification_icon.svg": "/static/media/notification_icon.273863c298e4773d387726b102866f67.svg",
+    "static/media/calculator_icon.svg": "/static/media/calculator_icon.6507109dd756150b9200f3575d773444.svg",
+    "static/media/marketplace_icon.svg": "/static/media/marketplace_icon.734c939708b2dced6a21947c6e756605.svg",
+    "static/media/dashboard_icon.svg": "/static/media/dashboard_icon.16e04e0a08b63a0d5bd990c8e61b1613.svg",
+    "static/media/search_icon.svg": "/static/media/search_icon.4587afe024a8e5e864455a7ff8d515a4.svg",
+    "static/media/setting_icon.svg": "/static/media/setting_icon.4e975800b94945e6e7c6bdd97ab85dd2.svg",
+    "static/media/portfolioCoral.svg": "/static/media/portfolioCoral.9bdfa83098c32d0c8dd02ea90de834d8.svg",
+    "static/media/portfolioGreen.svg": "/static/media/portfolioGreen.6497c76cac088cd54d6e2b5cc52ec974.svg",
+    "static/media/portfolio_icon.svg": "/static/media/portfolio_icon.474abea37b68976d7054d46dc97d8628.svg",
+    "static/media/portfolio_Change.svg": "/static/media/portfolio_Change.568129a021691f711e3d27641f65606e.svg",
+    "index.html": "/index.html",
+    "static/media/insight_icon.svg": "/static/media/insight_icon.3519e5e245e4a05a5e62d2211bb457bf.svg",
+    "static/media/wallet_icon.svg": "/static/media/wallet_icon.530345fb07ba3a512189f9704fb5e9cf.svg",
+    "main.5575af0a.css.map": "/static/css/main.5575af0a.css.map",
+    "main.353d6a3f.js.map": "/static/js/main.353d6a3f.js.map",
+    "787.7d3737a8.chunk.js.map": "/static/js/787.7d3737a8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5575af0a.css",
+    "static/js/main.353d6a3f.js"
+  ]
+}
