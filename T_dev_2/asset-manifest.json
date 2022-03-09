@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c42f30a3.css",
+    "main.js": "/static/js/main.850812c1.js",
+    "static/js/787.d481bbbc.chunk.js": "/static/js/787.d481bbbc.chunk.js",
+    "static/media/jason.jpg": "/static/media/jason.c8db6554474511c19fa2.jpg",
+    "static/media/MicrosoftTeams-image-3.jpg": "/static/media/MicrosoftTeams-image-3.0f11c95368ea0079548e.jpg",
+    "static/media/MicrosoftTeams-image-2.jpg": "/static/media/MicrosoftTeams-image-2.ad130f4d119ee5214b0c.jpg",
+    "static/media/MicrosoftTeams-image-4.jpg": "/static/media/MicrosoftTeams-image-4.ec7e2c693acd3e5f20bb.jpg",
+    "static/media/hero.jpg": "/static/media/hero.9ece8431a3c0f204e219.jpg",
+    "static/media/workspace.jpg": "/static/media/workspace.506eb09e9f1da283fa91.jpg",
+    "static/media/budweiser.svg": "/static/media/budweiser.48e937059ceb673a352894ace85ab51d.svg",
+    "static/media/team.jpg": "/static/media/team.587a1df985ec4c1f2a5f.jpg",
+    "static/media/logo-white.svg": "/static/media/logo-white.1ee39dfc294556981cd48c331c5a6974.svg",
+    "static/media/vertex.svg": "/static/media/vertex.c0aa51753382ccb1400b693c584cf796.svg",
+    "static/media/mastercard.svg": "/static/media/mastercard.6cbfe662512f862520f06efe39cf9e14.svg",
+    "static/media/microsoft.svg": "/static/media/microsoft.b480018e5d09a2b7a7e4339440ac7658.svg",
+    "static/media/github (1).svg": "/static/media/github (1).2a381867cc5088531b8f99cbccf5b967.svg",
+    "static/media/atlassian.svg": "/static/media/atlassian.2e1c97f0e833442f4c715b9b786ff42d.svg",
+    "static/media/merck.svg": "/static/media/merck.8dd67b8d541de0cd6cf0907ae92cceea.svg",
+    "static/media/nike.svg": "/static/media/nike.6811e92085d12533e7420648f7e77f94.svg",
+    "static/media/Instagram.svg": "/static/media/Instagram.47bdf202ea46ad346518e958bc8f0062.svg",
+    "static/media/hand.svg": "/static/media/hand.5bbc2c2dda69b3547a10cc4e371cef80.svg",
+    "static/media/LinkedIn.svg": "/static/media/LinkedIn.9186802982af468b71d4f1de02be837f.svg",
+    "static/media/nokia.svg": "/static/media/nokia.c3a04da945bc31020a8f9f3817a0b55b.svg",
+    "static/media/Twitter.svg": "/static/media/Twitter.d37d6d0ee50ef8d3420fdc6f342a8c03.svg",
+    "static/media/linkedin (1).svg": "/static/media/linkedin (1).aba3a930d3578a3f3d517a2edfd67bc0.svg",
+    "static/media/Message.svg": "/static/media/Message.438bccad28610b5399f9467363742d51.svg",
+    "static/media/plug.svg": "/static/media/plug.20aa911f2da8cd75faab8a8e129f0989.svg",
+    "index.html": "/index.html",
+    "static/media/menu.svg": "/static/media/menu.cab69c0c6c9aa4159bc417254ec358b9.svg",
+    "static/media/Facebook.svg": "/static/media/Facebook.d02bc59367d4b9c2998b901422db32ff.svg",
+    "main.c42f30a3.css.map": "/static/css/main.c42f30a3.css.map",
+    "main.850812c1.js.map": "/static/js/main.850812c1.js.map",
+    "787.d481bbbc.chunk.js.map": "/static/js/787.d481bbbc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c42f30a3.css",
+    "static/js/main.850812c1.js"
+  ]
+}
